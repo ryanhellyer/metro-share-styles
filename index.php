@@ -4,7 +4,7 @@ Plugin Name: Metro Share Styles
 Plugin URI: http://metronet.no/
 Description: Provides a different set of styles for your sharing icons
 Version: 0.1
-Author: Metronet / Ryan Hellyer
+Author: Metronet / Ryan Hellyer / Kaspars Dambis
 Author URI: http://metronet.no/
 */
 
